@@ -21,6 +21,7 @@ namespace Radical_ver._2._0
             FontFamily family = fontCollection.Families[0];
             // §³§à§Ù§Õ§Ñ§×§Þ §ê§â§Ú§æ§ä §Ú §Ú§ã§á§à§Ý§î§Ù§å§Ö§Þ §Õ§Ñ§Ý§Ö§Ö
             Font font = new Font(family, 15);
+            button1.Font = font;
         }
 
         static bool isDouble(string line)
