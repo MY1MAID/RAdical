@@ -20,8 +20,7 @@ namespace Radical3
             materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
-            materialSkinManager.ColorScheme = new ColorScheme(Primary.Grey400, Primary.Grey800, Primary.Grey800, Accent.Indigo700, TextShade.BLACK);
-            materialMaskedTextBox1.BackColor = this.BackColor;
+            materialSkinManager.ColorScheme = new ColorScheme(Primary.Grey300, Primary.Grey800, Primary.Grey800, Accent.Indigo700, TextShade.BLACK);
         }
         static string SimplifyExp(string fct, string exp)
         {
@@ -414,10 +413,13 @@ namespace Radical3
             if (materialSwitch1.Checked)
             {
                 ThemeManager.Theme = MaterialSkinManager.Themes.DARK;
+
+                ThemeManager.ColorScheme = new ColorScheme(Primary.Grey700, Primary.Grey900, Primary.Grey900, Accent.Indigo700, TextShade.WHITE);
             }
             else
             {
                 ThemeManager.Theme = MaterialSkinManager.Themes.LIGHT;
+                ThemeManager.ColorScheme = new ColorScheme(Primary.Grey300, Primary.Grey800, Primary.Grey800, Accent.Indigo700, TextShade.BLACK);
             }
         }
 

@@ -114,7 +114,7 @@
             this.materialButton1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton1.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton1.Depth = 0;
-            this.materialButton1.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton1.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton1.HighEmphasis = true;
             this.materialButton1.Icon = null;
             this.materialButton1.Location = new System.Drawing.Point(10, 108);
@@ -139,7 +139,7 @@
             this.materialButton2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton2.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton2.Depth = 0;
-            this.materialButton2.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton2.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton2.HighEmphasis = true;
             this.materialButton2.Icon = null;
             this.materialButton2.Location = new System.Drawing.Point(68, 108);
@@ -164,7 +164,7 @@
             this.materialButton3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton3.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton3.Depth = 0;
-            this.materialButton3.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton3.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton3.HighEmphasis = true;
             this.materialButton3.Icon = null;
             this.materialButton3.Location = new System.Drawing.Point(126, 108);
@@ -189,7 +189,7 @@
             this.materialButton4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton4.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton4.Depth = 0;
-            this.materialButton4.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton4.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton4.HighEmphasis = true;
             this.materialButton4.Icon = null;
             this.materialButton4.Location = new System.Drawing.Point(10, 170);
@@ -214,7 +214,7 @@
             this.materialButton5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton5.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton5.Depth = 0;
-            this.materialButton5.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton5.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton5.HighEmphasis = true;
             this.materialButton5.Icon = null;
             this.materialButton5.Location = new System.Drawing.Point(68, 170);
@@ -239,7 +239,7 @@
             this.materialButton6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton6.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton6.Depth = 0;
-            this.materialButton6.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton6.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton6.HighEmphasis = true;
             this.materialButton6.Icon = null;
             this.materialButton6.Location = new System.Drawing.Point(126, 170);
@@ -264,7 +264,7 @@
             this.materialButton7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton7.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton7.Depth = 0;
-            this.materialButton7.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton7.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton7.HighEmphasis = true;
             this.materialButton7.Icon = null;
             this.materialButton7.Location = new System.Drawing.Point(10, 232);
@@ -289,7 +289,7 @@
             this.materialButton8.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton8.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton8.Depth = 0;
-            this.materialButton8.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton8.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton8.HighEmphasis = true;
             this.materialButton8.Icon = null;
             this.materialButton8.Location = new System.Drawing.Point(68, 232);
@@ -314,7 +314,7 @@
             this.materialButton9.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton9.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton9.Depth = 0;
-            this.materialButton9.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton9.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton9.HighEmphasis = true;
             this.materialButton9.Icon = null;
             this.materialButton9.Location = new System.Drawing.Point(126, 232);
@@ -339,7 +339,7 @@
             this.materialButton10.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton10.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton10.Depth = 0;
-            this.materialButton10.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton10.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton10.HighEmphasis = true;
             this.materialButton10.Icon = null;
             this.materialButton10.Location = new System.Drawing.Point(10, 294);
@@ -364,7 +364,7 @@
             this.materialButton11.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton11.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton11.Depth = 0;
-            this.materialButton11.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton11.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton11.HighEmphasis = true;
             this.materialButton11.Icon = null;
             this.materialButton11.Location = new System.Drawing.Point(68, 294);
@@ -389,7 +389,7 @@
             this.materialButton12.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton12.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton12.Depth = 0;
-            this.materialButton12.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton12.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton12.HighEmphasis = true;
             this.materialButton12.Icon = null;
             this.materialButton12.Location = new System.Drawing.Point(126, 294);
@@ -414,7 +414,7 @@
             this.materialButton13.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton13.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton13.Depth = 0;
-            this.materialButton13.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton13.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton13.HighEmphasis = true;
             this.materialButton13.Icon = null;
             this.materialButton13.Location = new System.Drawing.Point(242, 294);
@@ -439,7 +439,7 @@
             this.materialButton14.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton14.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton14.Depth = 0;
-            this.materialButton14.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton14.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton14.HighEmphasis = true;
             this.materialButton14.Icon = null;
             this.materialButton14.Location = new System.Drawing.Point(184, 294);
@@ -464,7 +464,7 @@
             this.materialButton15.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton15.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton15.Depth = 0;
-            this.materialButton15.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton15.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton15.HighEmphasis = true;
             this.materialButton15.Icon = null;
             this.materialButton15.Location = new System.Drawing.Point(242, 232);
@@ -489,7 +489,7 @@
             this.materialButton16.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton16.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton16.Depth = 0;
-            this.materialButton16.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton16.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton16.HighEmphasis = true;
             this.materialButton16.Icon = null;
             this.materialButton16.Location = new System.Drawing.Point(184, 232);
@@ -514,7 +514,7 @@
             this.materialButton17.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton17.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton17.Depth = 0;
-            this.materialButton17.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton17.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton17.HighEmphasis = true;
             this.materialButton17.Icon = null;
             this.materialButton17.Location = new System.Drawing.Point(242, 170);
@@ -539,7 +539,7 @@
             this.materialButton18.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton18.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton18.Depth = 0;
-            this.materialButton18.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton18.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton18.HighEmphasis = true;
             this.materialButton18.Icon = null;
             this.materialButton18.Location = new System.Drawing.Point(184, 170);
@@ -564,7 +564,7 @@
             this.materialButton19.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton19.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton19.Depth = 0;
-            this.materialButton19.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton19.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton19.HighEmphasis = true;
             this.materialButton19.Icon = null;
             this.materialButton19.Location = new System.Drawing.Point(242, 108);
@@ -589,7 +589,7 @@
             this.materialButton20.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton20.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton20.Depth = 0;
-            this.materialButton20.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton20.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton20.HighEmphasis = true;
             this.materialButton20.Icon = null;
             this.materialButton20.Location = new System.Drawing.Point(184, 108);
@@ -614,7 +614,7 @@
             this.materialButton21.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton21.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton21.Depth = 0;
-            this.materialButton21.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton21.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton21.HighEmphasis = true;
             this.materialButton21.Icon = null;
             this.materialButton21.Location = new System.Drawing.Point(300, 108);
@@ -639,7 +639,7 @@
             this.materialButton22.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton22.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton22.Depth = 0;
-            this.materialButton22.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton22.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton22.HighEmphasis = true;
             this.materialButton22.Icon = null;
             this.materialButton22.Location = new System.Drawing.Point(300, 170);
@@ -664,7 +664,7 @@
             this.materialButton23.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton23.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton23.Depth = 0;
-            this.materialButton23.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton23.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton23.HighEmphasis = true;
             this.materialButton23.Icon = null;
             this.materialButton23.Location = new System.Drawing.Point(408, 108);
@@ -689,7 +689,7 @@
             this.materialButton24.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton24.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton24.Depth = 0;
-            this.materialButton24.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton24.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton24.HighEmphasis = true;
             this.materialButton24.Icon = null;
             this.materialButton24.Location = new System.Drawing.Point(408, 170);
@@ -714,7 +714,7 @@
             this.materialButton25.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton25.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton25.Depth = 0;
-            this.materialButton25.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton25.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton25.HighEmphasis = true;
             this.materialButton25.Icon = null;
             this.materialButton25.Location = new System.Drawing.Point(516, 108);
@@ -739,7 +739,7 @@
             this.materialButton26.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton26.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton26.Depth = 0;
-            this.materialButton26.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton26.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton26.HighEmphasis = true;
             this.materialButton26.Icon = null;
             this.materialButton26.Location = new System.Drawing.Point(516, 170);
@@ -764,7 +764,7 @@
             this.materialButton27.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton27.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton27.Depth = 0;
-            this.materialButton27.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton27.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton27.HighEmphasis = true;
             this.materialButton27.Icon = null;
             this.materialButton27.Location = new System.Drawing.Point(408, 232);
@@ -789,7 +789,7 @@
             this.materialButton28.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton28.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton28.Depth = 0;
-            this.materialButton28.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton28.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton28.HighEmphasis = true;
             this.materialButton28.Icon = null;
             this.materialButton28.Location = new System.Drawing.Point(516, 232);
@@ -814,7 +814,7 @@
             this.materialButton29.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton29.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton29.Depth = 0;
-            this.materialButton29.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton29.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton29.HighEmphasis = true;
             this.materialButton29.Icon = null;
             this.materialButton29.Location = new System.Drawing.Point(408, 294);
@@ -839,7 +839,7 @@
             this.materialButton30.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton30.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton30.Depth = 0;
-            this.materialButton30.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton30.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton30.HighEmphasis = true;
             this.materialButton30.Icon = null;
             this.materialButton30.Location = new System.Drawing.Point(516, 294);
@@ -864,7 +864,7 @@
             this.materialButton31.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton31.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton31.Depth = 0;
-            this.materialButton31.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton31.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton31.HighEmphasis = true;
             this.materialButton31.Icon = null;
             this.materialButton31.Location = new System.Drawing.Point(302, 234);
@@ -889,7 +889,7 @@
             this.materialButton32.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialButton32.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.materialButton32.Depth = 0;
-            this.materialButton32.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.materialButton32.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton32.HighEmphasis = true;
             this.materialButton32.Icon = null;
             this.materialButton32.Location = new System.Drawing.Point(354, 234);
@@ -1003,7 +1003,7 @@
             this.materialButton34.Depth = 0;
             this.materialButton34.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton34.HighEmphasis = true;
-            this.materialButton34.Icon = null;
+            this.materialButton34.Icon = ((System.Drawing.Image)(resources.GetObject("materialButton34.Icon")));
             this.materialButton34.Location = new System.Drawing.Point(449, 0);
             this.materialButton34.Margin = new System.Windows.Forms.Padding(0);
             this.materialButton34.MouseState = MaterialSkin.MouseState.HOVER;
