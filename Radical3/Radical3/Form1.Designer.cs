@@ -931,12 +931,12 @@
             this.materialSlider1.Location = new System.Drawing.Point(0, 0);
             this.materialSlider1.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialSlider1.Name = "materialSlider1";
-            this.materialSlider1.RangeMax = 10;
+            this.materialSlider1.RangeMax = 15;
             this.materialSlider1.Size = new System.Drawing.Size(167, 40);
             this.materialSlider1.TabIndex = 37;
             this.materialSlider1.Text = "";
             this.materialSlider1.Value = 0;
-            this.materialSlider1.ValueMax = 10;
+            this.materialSlider1.ValueMax = 15;
             // 
             // materialSwitch2
             // 

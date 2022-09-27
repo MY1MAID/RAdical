@@ -91,7 +91,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Yu Gothic UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(70, 93);
+            this.label2.Location = new System.Drawing.Point(75, 84);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(411, 38);
             this.label2.TabIndex = 1;
@@ -101,7 +101,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Yu Gothic UI", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(17, 0);
+            this.label1.Location = new System.Drawing.Point(182, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(117, 59);
             this.label1.TabIndex = 0;
