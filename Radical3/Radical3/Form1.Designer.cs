@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            MaterialSkin.Controls.MaterialButton materialButton33;
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.materialButton1 = new MaterialSkin.Controls.MaterialButton();
             this.materialButton2 = new MaterialSkin.Controls.MaterialButton();
@@ -67,14 +68,43 @@
             this.materialSwitch1 = new MaterialSkin.Controls.MaterialSwitch();
             this.materialButton36 = new MaterialSkin.Controls.MaterialButton();
             this.materialButton34 = new MaterialSkin.Controls.MaterialButton();
-            this.materialButton33 = new MaterialSkin.Controls.MaterialButton();
             this.materialButton35 = new MaterialSkin.Controls.MaterialButton();
             this.materialButton37 = new MaterialSkin.Controls.MaterialButton();
             this.materialMaskedTextBox1 = new MaterialSkin.Controls.MaterialMaskedTextBox();
-            this.materialCard2 = new MaterialSkin.Controls.MaterialCard();
+            materialButton33 = new MaterialSkin.Controls.MaterialButton();
             this.materialCard1.SuspendLayout();
-            this.materialCard2.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // materialButton33
+            // 
+            materialButton33.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            materialButton33.AutoSize = false;
+            materialButton33.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            materialButton33.BackColor = System.Drawing.Color.Chartreuse;
+            materialButton33.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            materialButton33.CharacterCasing = MaterialSkin.Controls.MaterialButton.CharacterCasingEnum.Lower;
+            materialButton33.Cursor = System.Windows.Forms.Cursors.Hand;
+            materialButton33.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
+            materialButton33.Depth = 0;
+            materialButton33.FlatAppearance.BorderSize = 0;
+            materialButton33.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            materialButton33.HighEmphasis = true;
+            materialButton33.Icon = ((System.Drawing.Image)(resources.GetObject("materialButton33.Icon")));
+            materialButton33.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            materialButton33.Location = new System.Drawing.Point(580, 0);
+            materialButton33.Margin = new System.Windows.Forms.Padding(0);
+            materialButton33.MouseState = MaterialSkin.MouseState.HOVER;
+            materialButton33.Name = "materialButton33";
+            materialButton33.NoAccentTextColor = System.Drawing.Color.Empty;
+            materialButton33.Size = new System.Drawing.Size(40, 25);
+            materialButton33.TabIndex = 1;
+            materialButton33.TabStop = false;
+            materialButton33.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            materialButton33.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            materialButton33.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
+            materialButton33.UseAccentColor = false;
+            materialButton33.UseVisualStyleBackColor = false;
+            materialButton33.Click += new System.EventHandler(this.materialButton33_Click);
             // 
             // materialButton1
             // 
@@ -885,7 +915,7 @@
             this.materialCard1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.materialCard1.Depth = 0;
             this.materialCard1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialCard1.Location = new System.Drawing.Point(305, 30);
+            this.materialCard1.Location = new System.Drawing.Point(296, 31);
             this.materialCard1.Margin = new System.Windows.Forms.Padding(14);
             this.materialCard1.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialCard1.Name = "materialCard1";
@@ -949,13 +979,13 @@
             this.materialButton36.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.materialButton36.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton36.HighEmphasis = true;
-            this.materialButton36.Icon = null;
-            this.materialButton36.Location = new System.Drawing.Point(540, 0);
-            this.materialButton36.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
+            this.materialButton36.Icon = ((System.Drawing.Image)(resources.GetObject("materialButton36.Icon")));
+            this.materialButton36.Location = new System.Drawing.Point(537, 0);
+            this.materialButton36.Margin = new System.Windows.Forms.Padding(0);
             this.materialButton36.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialButton36.Name = "materialButton36";
             this.materialButton36.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.materialButton36.Size = new System.Drawing.Size(25, 25);
+            this.materialButton36.Size = new System.Drawing.Size(40, 25);
             this.materialButton36.TabIndex = 37;
             this.materialButton36.TabStop = false;
             this.materialButton36.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
@@ -974,42 +1004,18 @@
             this.materialButton34.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton34.HighEmphasis = true;
             this.materialButton34.Icon = null;
-            this.materialButton34.Location = new System.Drawing.Point(570, 0);
-            this.materialButton34.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
+            this.materialButton34.Location = new System.Drawing.Point(449, 0);
+            this.materialButton34.Margin = new System.Windows.Forms.Padding(0);
             this.materialButton34.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialButton34.Name = "materialButton34";
             this.materialButton34.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.materialButton34.Size = new System.Drawing.Size(25, 25);
+            this.materialButton34.Size = new System.Drawing.Size(40, 25);
             this.materialButton34.TabIndex = 34;
             this.materialButton34.TabStop = false;
             this.materialButton34.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.materialButton34.UseAccentColor = false;
             this.materialButton34.UseVisualStyleBackColor = false;
             this.materialButton34.Click += new System.EventHandler(this.materialButton34_Click);
-            // 
-            // materialButton33
-            // 
-            this.materialButton33.AutoSize = false;
-            this.materialButton33.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.materialButton33.BackColor = System.Drawing.Color.Chartreuse;
-            this.materialButton33.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.materialButton33.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
-            this.materialButton33.Depth = 0;
-            this.materialButton33.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.materialButton33.HighEmphasis = true;
-            this.materialButton33.Icon = null;
-            this.materialButton33.Location = new System.Drawing.Point(600, 0);
-            this.materialButton33.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
-            this.materialButton33.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialButton33.Name = "materialButton33";
-            this.materialButton33.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.materialButton33.Size = new System.Drawing.Size(25, 25);
-            this.materialButton33.TabIndex = 33;
-            this.materialButton33.TabStop = false;
-            this.materialButton33.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
-            this.materialButton33.UseAccentColor = false;
-            this.materialButton33.UseVisualStyleBackColor = false;
-            this.materialButton33.Click += new System.EventHandler(this.materialButton33_Click);
             // 
             // materialButton35
             // 
@@ -1021,13 +1027,13 @@
             this.materialButton35.Depth = 0;
             this.materialButton35.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton35.HighEmphasis = true;
-            this.materialButton35.Icon = null;
-            this.materialButton35.Location = new System.Drawing.Point(600, 30);
+            this.materialButton35.Icon = ((System.Drawing.Image)(resources.GetObject("materialButton35.Icon")));
+            this.materialButton35.Location = new System.Drawing.Point(493, 0);
             this.materialButton35.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.materialButton35.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialButton35.Name = "materialButton35";
             this.materialButton35.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.materialButton35.Size = new System.Drawing.Size(25, 25);
+            this.materialButton35.Size = new System.Drawing.Size(40, 25);
             this.materialButton35.TabIndex = 35;
             this.materialButton35.TabStop = false;
             this.materialButton35.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
@@ -1045,13 +1051,13 @@
             this.materialButton37.Depth = 0;
             this.materialButton37.Font = new System.Drawing.Font("Yu Gothic UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.materialButton37.HighEmphasis = true;
-            this.materialButton37.Icon = null;
-            this.materialButton37.Location = new System.Drawing.Point(600, 30);
+            this.materialButton37.Icon = ((System.Drawing.Image)(resources.GetObject("materialButton37.Icon")));
+            this.materialButton37.Location = new System.Drawing.Point(493, 0);
             this.materialButton37.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.materialButton37.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialButton37.Name = "materialButton37";
             this.materialButton37.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.materialButton37.Size = new System.Drawing.Size(25, 25);
+            this.materialButton37.Size = new System.Drawing.Size(40, 25);
             this.materialButton37.TabIndex = 51;
             this.materialButton37.TabStop = false;
             this.materialButton37.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
@@ -1073,7 +1079,7 @@
             this.materialMaskedTextBox1.HideSelection = true;
             this.materialMaskedTextBox1.InsertKeyMode = System.Windows.Forms.InsertKeyMode.Default;
             this.materialMaskedTextBox1.LeadingIcon = null;
-            this.materialMaskedTextBox1.Location = new System.Drawing.Point(0, 0);
+            this.materialMaskedTextBox1.Location = new System.Drawing.Point(10, 45);
             this.materialMaskedTextBox1.Mask = "";
             this.materialMaskedTextBox1.MaxLength = 32767;
             this.materialMaskedTextBox1.MouseState = MaterialSkin.MouseState.OUT;
@@ -1090,7 +1096,7 @@
             this.materialMaskedTextBox1.SelectionLength = 0;
             this.materialMaskedTextBox1.SelectionStart = 0;
             this.materialMaskedTextBox1.ShortcutsEnabled = true;
-            this.materialMaskedTextBox1.Size = new System.Drawing.Size(243, 48);
+            this.materialMaskedTextBox1.Size = new System.Drawing.Size(282, 48);
             this.materialMaskedTextBox1.SkipLiterals = true;
             this.materialMaskedTextBox1.TabIndex = 52;
             this.materialMaskedTextBox1.TabStop = false;
@@ -1101,20 +1107,6 @@
             this.materialMaskedTextBox1.UseSystemPasswordChar = false;
             this.materialMaskedTextBox1.ValidatingType = null;
             // 
-            // materialCard2
-            // 
-            this.materialCard2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.materialCard2.Controls.Add(this.materialMaskedTextBox1);
-            this.materialCard2.Depth = 0;
-            this.materialCard2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.materialCard2.Location = new System.Drawing.Point(34, 45);
-            this.materialCard2.Margin = new System.Windows.Forms.Padding(14);
-            this.materialCard2.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialCard2.Name = "materialCard2";
-            this.materialCard2.Padding = new System.Windows.Forms.Padding(14);
-            this.materialCard2.Size = new System.Drawing.Size(243, 48);
-            this.materialCard2.TabIndex = 53;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -1124,13 +1116,13 @@
             this.BackColor = System.Drawing.Color.Snow;
             this.ClientSize = new System.Drawing.Size(624, 353);
             this.ControlBox = false;
-            this.Controls.Add(this.materialCard2);
+            this.Controls.Add(this.materialMaskedTextBox1);
             this.Controls.Add(this.materialButton35);
             this.Controls.Add(this.materialButton37);
             this.Controls.Add(this.materialButton36);
             this.Controls.Add(this.materialCard1);
             this.Controls.Add(this.materialButton34);
-            this.Controls.Add(this.materialButton33);
+            this.Controls.Add(materialButton33);
             this.Controls.Add(this.materialButton32);
             this.Controls.Add(this.materialButton31);
             this.Controls.Add(this.materialButton30);
@@ -1168,7 +1160,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.materialCard1.ResumeLayout(false);
-            this.materialCard2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -1217,6 +1208,5 @@
         private MaterialSkin.Controls.MaterialButton materialButton36;
         private MaterialSkin.Controls.MaterialButton materialButton37;
         private MaterialSkin.Controls.MaterialMaskedTextBox materialMaskedTextBox1;
-        private MaterialSkin.Controls.MaterialCard materialCard2;
     }
 }

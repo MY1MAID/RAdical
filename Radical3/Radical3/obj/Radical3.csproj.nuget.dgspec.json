@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Radical3\\Radical3\\Radical3.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\RAdical.ver.2\\Radical3\\Radical3\\Radical3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Radical3\\Radical3\\Radical3.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\RAdical.ver.2\\Radical3\\Radical3\\Radical3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Radical3\\Radical3\\Radical3.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\RAdical.ver.2\\Radical3\\Radical3\\Radical3.csproj",
         "projectName": "Radical3",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Radical3\\Radical3\\Radical3.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\RAdical.ver.2\\Radical3\\Radical3\\Radical3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Radical3\\Radical3\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\RAdical.ver.2\\Radical3\\Radical3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,6 +4,7 @@ using Python.Runtime;
 using Dangl.Calculator;
 using System.Windows.Forms;
 using System.Linq;
+using System;
 
 namespace Radical3
 {
@@ -19,7 +20,7 @@ namespace Radical3
             materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
-            materialSkinManager.ColorScheme = new ColorScheme(Primary.Grey300, Primary.Pink800, Primary.Pink900, Accent.Yellow700, TextShade.BLACK);
+            materialSkinManager.ColorScheme = new ColorScheme(Primary.Grey400, Primary.Grey800, Primary.Grey800, Accent.Indigo700, TextShade.BLACK);
             materialMaskedTextBox1.BackColor = this.BackColor;
         }
         static string SimplifyExp(string fct, string exp)
@@ -254,7 +255,7 @@ namespace Radical3
                 materialMaskedTextBox1.Text = Math.PI.ToString();
             }
         }
-        
+
         private void materialBu9tton19_Click(object sender, EventArgs e)
         {
             if (Char.IsDigit(materialMaskedTextBox1.Text[materialMaskedTextBox1.Text.Length - 1]) || Char.IsLetter(materialMaskedTextBox1.Text[materialMaskedTextBox1.Text.Length - 1]) || materialMaskedTextBox1.Text[materialMaskedTextBox1.Text.Length - 1] == ')') materialMaskedTextBox1.Text += '+';
@@ -392,12 +393,13 @@ namespace Radical3
 
         private void materialButton34_Click(object sender, EventArgs e)
         {
-            this.WindowState = FormWindowState.Minimized;
+            MessageBox.ShowBox("Hotline number: +7 922-118-03-01", "Help");
+
         }
 
         private void materialButton36_Click(object sender, EventArgs e)
         {
-
+            this.WindowState = FormWindowState.Minimized;
         }
 
         private void materialButton35_Click(object sender, EventArgs e)

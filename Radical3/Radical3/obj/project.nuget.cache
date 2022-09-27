@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3nm16eg/WzMpBiX+2cYiC8/K7/Z0TfBzXUK27SVcj8LD9nc+ExdgHv8h6h0IZC3e0wQ7ej1WLVWTSEmN/pDgJQ==",
+  "dgSpecHash": "McMeI7o7ZwQjtSWL1ey2RvvbMkA6RDyIaWtUGpnsUmhqBL3BJXLI54P0F/XexDKh0QstfpbFr4PDb4ezDPgmZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Radical3\\Radical3\\Radical3.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\RAdical.ver.2\\Radical3\\Radical3\\Radical3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\antlr4.runtime\\4.6.6\\antlr4.runtime.4.6.6.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\dangl.calculator\\1.5.0\\dangl.calculator.1.5.0.nupkg.sha512",
